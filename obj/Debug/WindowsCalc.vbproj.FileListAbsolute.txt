@@ -1,0 +1,11 @@
+E:\Mariden\CODES\Visual Studio\WindowsCalc\bin\Debug\WindowsCalc.exe.config
+E:\Mariden\CODES\Visual Studio\WindowsCalc\bin\Debug\WindowsCalc.exe
+E:\Mariden\CODES\Visual Studio\WindowsCalc\bin\Debug\WindowsCalc.pdb
+E:\Mariden\CODES\Visual Studio\WindowsCalc\bin\Debug\WindowsCalc.xml
+E:\Mariden\CODES\Visual Studio\WindowsCalc\obj\Debug\WindowsCalc.vbprojAssemblyReference.cache
+E:\Mariden\CODES\Visual Studio\WindowsCalc\obj\Debug\WindowsCalc.Form1.resources
+E:\Mariden\CODES\Visual Studio\WindowsCalc\obj\Debug\WindowsCalc.Resources.resources
+E:\Mariden\CODES\Visual Studio\WindowsCalc\obj\Debug\WindowsCalc.vbproj.GenerateResource.cache
+E:\Mariden\CODES\Visual Studio\WindowsCalc\obj\Debug\WindowsCalc.exe
+E:\Mariden\CODES\Visual Studio\WindowsCalc\obj\Debug\WindowsCalc.xml
+E:\Mariden\CODES\Visual Studio\WindowsCalc\obj\Debug\WindowsCalc.pdb
